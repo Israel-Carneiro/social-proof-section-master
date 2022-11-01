@@ -10,7 +10,7 @@
 
 body {
     font-family: var(--league-spartan);
-    margin: 3rem 1rem 3rem 1rem;
+    margin: 6rem 1.5rem 6rem 1.5rem ;
 }
 
 .text {
@@ -19,14 +19,14 @@ body {
 }
 
 .text h1 {
-    margin: 0 1rem 1rem 1rem;
-    font-size: 1.75rem;
+    margin: 0 1rem 1.5rem 1rem;
+    font-size: 2.75rem;
     font-weight: 700;
 }
 
 .text p {
-    font-size: .75rem;
-    line-height: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
 }
 
 .rate {
@@ -47,7 +47,7 @@ body {
 .star {
     color: orange;
     margin-bottom: .5rem;
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 
 rate-box::before{
@@ -55,18 +55,30 @@ rate-box::before{
 }
 
 .feedback {
+    display: flex;
+    flex-wrap: wrap;
     color: var(--white);
     background-color: var(--very-dark-magenta);
     margin: .75rem 0 .75rem 0;
     padding: 1.5rem;
     border-radius: 5px;
+    font-weight: 300;
+    font-size: .7rem;
 }
 
 .pic {
+    margin: 0 1rem 1.5rem 0;
     width: 30px;
     border-radius: 15px;
 }
 
+.feedback h2 {
+    line-height: 1rem;
+    font-weight: 700;
+    font-size: .75rem;
+}
+
 .feedback a {
     color: var(--soft-pink);
+    font-weight: 400;
 }
