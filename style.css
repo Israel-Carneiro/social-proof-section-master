@@ -10,11 +10,63 @@
 
 body {
     font-family: var(--league-spartan);
-    margin: 4rem 1rem 4rem 1rem;
+    margin: 3rem 1rem 3rem 1rem;
 }
 
-.text {}
+.text {
+    text-align: center;
+    color: var(--very-dark-magenta);
+}
 
-.rate {}
+.text h1 {
+    margin: 0 1rem 1rem 1rem;
+    font-size: 1.75rem;
+    font-weight: 700;
+}
 
-.feedback {}
+.text p {
+    font-size: .75rem;
+    line-height: 1rem;
+}
+
+.rate {
+    text-align: center;
+    color: var(--very-dark-magenta);
+    margin: 1.5rem 0 1.5rem 0;
+}
+
+.rate-box {
+    margin: .75rem 0 .75rem 0;
+    padding: .5rem;
+    font-size: .75rem;
+    font-weight: 700;
+    background-color: var(--light-grayish-magenta);
+    border-radius: 5px;
+}
+
+.star {
+    color: orange;
+    margin-bottom: .5rem;
+    font-size: 1rem;
+}
+
+rate-box::before{
+    content: "\2605\2605\2605\2605\2605";
+}
+
+.feedback {
+    color: var(--white);
+    background-color: var(--very-dark-magenta);
+    margin: .75rem 0 .75rem 0;
+    padding: 1.5rem;
+    border-radius: 5px;
+}
+
+.pic {
+    width: 30px;
+    border-radius: 15px;
+}
+
+.feedback a {
+    color: var(--soft-pink);
+}
