@@ -38,7 +38,7 @@ body {
 .rate-box {
     margin: .75rem 0 .75rem 0;
     padding: .5rem;
-    font-size: .75rem;
+    font-size: 1rem;
     font-weight: 700;
     background-color: var(--light-grayish-magenta);
     border-radius: 5px;
@@ -60,25 +60,123 @@ rate-box::before{
     color: var(--white);
     background-color: var(--very-dark-magenta);
     margin: .75rem 0 .75rem 0;
-    padding: 1.5rem;
+    padding: 2rem;
     border-radius: 5px;
     font-weight: 300;
-    font-size: .7rem;
+    font-size: 1rem;
+    line-height: 1.6rem;
 }
 
 .pic {
     margin: 0 1rem 1.5rem 0;
-    width: 30px;
-    border-radius: 15px;
+    width: 40px;
+    border-radius: 20px;
 }
 
 .feedback h2 {
-    line-height: 1rem;
+    line-height: 1.5rem;
+    font-size: 1rem;
     font-weight: 700;
-    font-size: .75rem;
 }
 
 .feedback a {
     color: var(--soft-pink);
     font-weight: 400;
+}
+
+@media screen and (min-width: 1024px) {
+
+    body {
+        margin: 6rem 8rem 6rem 8rem;
+    }
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text {
+        width: 40%;
+        text-align: start;
+        margin-bottom: 3rem;
+    }
+
+    .text h1 {
+        font-size: 2.5rem;
+        margin: 0 0 1rem 0;
+    }
+
+    .text p {
+        font-size: .8rem;
+        line-height: 1rem;
+    }
+
+    .rate {
+        margin: 0rem;
+        width: 60%;
+    }
+
+    .rate-box {
+        padding: .9rem 0 .9rem 0;
+        font-size: .7rem;
+    }
+
+    .star {
+        font-size: .8rem;
+        margin: 0;
+        padding: 0 1.5rem 0 1.5rem;
+    }
+
+    .rate-box1 {
+        display: flex;
+        margin-left: 6rem;
+        margin-right: 4rem;
+    }
+
+    .rate-box2 {
+        display: flex;
+        margin-left: 8rem;
+        margin-right: 2rem;
+    }
+
+    .rate-box3 {
+        display: flex;
+        margin-left: 10rem;
+    }
+
+    .feed {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .feedback {
+        width: 25.5%;
+        margin: 0;
+        padding: 1.5rem;
+        font-size: .7rem;
+        line-height: 1rem;
+    }
+
+    .pic {
+        width: 30px;
+    }
+
+    .feedback h2 {
+        font-size: .7rem;
+        line-height: 1rem;
+    }
+
+    .feedback1 {
+        margin-bottom: 2rem;
+    }
+
+    .feedback2 {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    
+    .feedback3 {
+        margin-top: 2rem;
+    }
+
 }
