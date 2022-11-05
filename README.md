@@ -4,17 +4,17 @@
 
 Obrigado por verificar meu projeto front-end.
 
-Estou constantemente aprimorando minhas habilidades em HTML e CSS para fazer mais projetos como este.
+Estou constantemente aprimorando minhas habilidades em HTML e CSS para evoluir o nível dos meus projetos.
 
 ## Objetivo do Projeto
 
-Eu queria mostrar no que estou trabalhando, para que as pessoas me reconheçam como um verdadeiro designer de front-end.<br>
-Meu desejo é lidar com mais e maiores projetos como este. Então, eu adoraria qualquer sugestão de desafio!
+Neste projeto eu optei por fazer uma pagina com comentarios e avaliações de usuários com um estilo mais desalinhado para dar um tchã!<br>
+Dessa vez eu gostaria de refinar as minhas habilidades com o Flexbox, então escolhi um projeto o qual eu já percebi logo que ele me ajudaria na parte de desenvolver o designe responsivo. Com isso foi necessário menos trabalho e ajustes utilizando o CSS juntamente ao HTML bem estruturado.<br>
+Com o prazo de uma semana eu pude concluir o objetivo com poucas horas ao dia.
 
 ## Designe do Projeto
 
-Resolvi construir um Cartão de visualização de 3 colunas, que é um desafio da > https://www.frontendmentor.io/ <br>
-Lá eu posso ter as imagens, textos, cores usadas e fontes de letras para trabalhar, e eles me pedem para fazer todo esse design sozinho, assim como demonstrado.
+O designe tem diferentes espaçamentos entre as seções para o layout em desktop. Com mais espaço na tela foi bacana construir divisões assimetricas para deixar de lado padrões comuns e experimentar um pouco de bagunça (com ordem em tudo rsrs).
 
 Aqui você pode ver uma prévia deste projeto visto por uma tela de desktop, o que significa que é uma largura mínima de tela de 1024px:
 
