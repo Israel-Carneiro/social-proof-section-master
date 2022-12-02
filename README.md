@@ -19,13 +19,13 @@ O designe tem diferentes espaçamentos entre as seções para o layout em deskto
 Aqui você pode ver uma prévia deste projeto visto por uma tela de desktop, o que significa que é uma largura mínima de tela de 1024px:
 
 <div align="center">
-  <img width=50% src="./images/desktop-design.png" alt="Visualização Desktop">
+  <img width=50% src="./assets/images/desktop-design.png" alt="Visualização Desktop">
 </div>
 
 E esta é uma prévia de uma tela de celular (com largura de tela menor que 1024px):
 
 <div align="center">
-  <img width=10% src="./images/mobile-design.jpg" alt="Visualização Mobile">
+  <img width=10% src="./assets/images/mobile-design.jpg" alt="Visualização Mobile">
 </div>
 
 ## Estrutura do projeto
