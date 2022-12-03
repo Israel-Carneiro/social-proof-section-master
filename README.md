@@ -1,20 +1,15 @@
-# Stats Preview Card
+# Desafio Stats Preview Card
 
-## Bem vindo! 👋
+Uma página para destaques de experiências de usuários é muito importante para qualquer serviço ou produto online. Por este motivo, e pela escolha das ferramentas que precisaria para este projeto, escolhi aceitar este desafio.
 
-Obrigado por verificar meu projeto front-end.
+## Objetivo
 
-Estou constantemente aprimorando minhas habilidades em HTML e CSS para evoluir o nível dos meus projetos.
+O intuito deste projeto é testar e aprimorar as habilidades em HTML e CSS. Para a realização deste objetivo as seguintes técnicas foram utilizadas:
+ - Estrutura HTML semantica: Facilitando ao computador a compreenção da estruturação do projeto;
+ - Responsividade: Layouts ajustaveis para mobile e desktop;
+ - Estilização com CSS FlexBox: Tornando a realização dos layouts mais simples, prática e bem feita.
 
-## Objetivo do Projeto
-
-Neste projeto eu optei por fazer uma pagina com comentarios e avaliações de usuários com um estilo mais desalinhado para dar um tchã!<br>
-Dessa vez eu gostaria de refinar as minhas habilidades com o Flexbox, então escolhi um projeto o qual eu já percebi logo que ele me ajudaria na parte de desenvolver o designe responsivo. Com isso foi necessário menos trabalho e ajustes utilizando o CSS juntamente ao HTML bem estruturado.<br>
-Com o prazo de uma semana eu pude concluir o objetivo com poucas horas ao dia.
-
-## Designe do Projeto
-
-O designe tem diferentes espaçamentos entre as seções para o layout em desktop. Com mais espaço na tela foi bacana construir divisões assimetricas para deixar de lado padrões comuns e experimentar um pouco de bagunça (com ordem em tudo rsrs).
+## Resultado do Projeto
 
 Aqui você pode ver uma prévia deste projeto visto por uma tela de desktop, o que significa que é uma largura mínima de tela de 1024px:
 
@@ -28,9 +23,16 @@ E esta é uma prévia de uma tela de celular (com largura de tela menor que 1024
   <img width=10% src="./assets/images/mobile-design.jpg" alt="Visualização Mobile">
 </div>
 
-## Estrutura do projeto
+## Aprendizados
 
->Primeiro passo, estruturar o arquivo index.html de forma semantica como boas praticas;<br>
->Segundo, buscar as fontes utilizadas em https://fonts.google.com/ e declarar no cabeçalho assim também como as paginas de estilo reset.css e style.css;<br>
->Terceiro, começar a estilização da pagina pelo style.css a partir da estratégia "Mobile First";<br>
->Quarto, implementar o display responsivo para desktop a partir de 1024px;<br>
+Com a experiencia deste projeto eu pude colocar em pratica o que aprendi sobre CSS FlexBox e entender como ele facilita o trabalho que tive para desenvolver o layout responsivo além de facilitar o posicionamento de cada elemento.
+
+Utilizei uma folha de estilo "reset.css" para evitar alterações padrão de navegadores.
+
+Apliquei a técnica de "mobile first", priorizando o layout para dispositivos mobile e ajustando para dispositivos desktop.
+
+## Referência
+ 
+ - Este é um desafio proposto por [Front End Mentor](www.frontendmentor.io).
+ - O [Front End Mentor](www.frontendmentor.io) apenas oferece uma amostra do resultado esperado e o material para realizá lo.
+ - Não há instruções ou dicas de como realizar o desafio, deixando toda e qualquer decisão a critério de quem o realiza.
