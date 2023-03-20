@@ -48,7 +48,7 @@ Apliquei a técnica de "mobile first", priorizando o layout para dispositivos mo
  <td>
   <h4>Contatos</h4><br>
   <a href="https://www.linkedin.com/in/ israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="LinkedIn" /></a><br>
-  <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a><br>
+  <a href="https://instagram.com/webcarneiro" target="_blank"><//img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a><br>
   <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" rel="FrontEnd Mentor" /><a>
  </td>
 </table>
