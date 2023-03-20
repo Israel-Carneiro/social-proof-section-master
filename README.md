@@ -36,3 +36,13 @@ Apliquei a técnica de "mobile first", priorizando o layout para dispositivos mo
  - Este é um desafio proposto por [Front End Mentor](www.frontendmentor.io).
  - O [Front End Mentor](www.frontendmentor.io) apenas oferece uma amostra do resultado esperado e o material para realizá lo.
  - Não há instruções ou dicas de como realizar o desafio, deixando toda e qualquer decisão a critério de quem o realiza.
+
+## Autore
+
+### Israel Carneiro de Oliveira
+ 
+<table border: none;" border="0" cellpadding="0">
+ <td>
+  <img width="200px" src="https://avatars.githubusercontent.com/u/113190387?s=400&u=3c497e66670ff827854b02bfd769529a19c9b5b1&v=4" rel="foto Israel Carneiro" />
+ </td>
+</table>
